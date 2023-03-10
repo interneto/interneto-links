@@ -1,0 +1,401 @@
+# Categorization system
+
+- +net
+	- App software
+		- Account app
+			- Activism accoiunt
+			- AI aaccount
+			- Analytics account
+			- Blckchaina ccount
+			- Bookmark manager account
+			- Broadcasting account
+			- Classroom account
+			- Cloud storage
+			- Collaborative account
+			- Crowdfunding
+			- ecommerce account
+			- email account
+			- esports account
+			- GTD account
+			- Learning tools
+			- Monitoring account
+			- Online editor
+			- Payment transfer
+			- Project Management System
+			- Research papers
+			- Share links
+			- Sport analysis
+			- Tracker platform
+		- Desktop app
+			- Automation software
+			- Backup
+			- Benchmark
+			- Booteable USB
+			- Browser
+			- Calculator
+			- Calendar desktop
+			- Chronometer app
+			- Cleaner PC
+			- Clipboard
+			- Converter
+			- Data app
+			- Database management system
+			- Desktop environment
+			- Desktop manager
+			- Development
+			- system
+			- Game desktop
+			- Map software
+			- Maths software
+			- Media server
+			- Monitoring app
+			- OS emulator
+			- Penetration test
+			- Recorder desktop
+			- Recovery
+			- Reference management
+			- Remote desktop
+			- RGB app
+			- Screen mirroring
+			- Simulator space
+			- Translator app
+			- TTS app
+			- Uninstall software
+			- Version control system
+			- Virtual assistant
+			- Virtual machine
+		- Extension app
+			- Bots
+				- Discord bots
+				- Telegram bots
+			- Browser extension
+			- IDE extension
+				- IDE theme extension
+				- Obsidian plugin
+				- VS Code extension
+				- Wordpress plugin
+			- Twitter extension
+			- Wikipedia extension
+		- Mobile app
+			- Apps for mobile
+			- Backup app
+			- Block app
+			- Browser app
+			- Calendar app
+			- Webcam mbile
+			- Editor app Email app
+			- File manager app
+			- Finance app
+			- Fitness app
+			- GAmes app
+			- Launcher app
+			- Maps app
+			- Mod app
+			- Music tool app
+			- Plant identifier
+			- Player app
+			- Productivity app
+			- Reader app
+			- Root app
+			- Scanner app
+			- Science app
+			- Screen time tracker
+			- Health monitor
+			- Task app
+			- Tools app
+			- YouTube app
+		- Respository coding
+			- Repository fonts
+			- Repository app
+			- Repository organization
+		- Tools
+			- Calculatos online
+			- File tools
+			- Format tools
+			- Generator tools
+			- Social tools
+			- Utility tools
+			- Web tools
+	- OS
+		- Desktop OS
+					- Independent desktop OS
+			- Unix-like
+				- BSD
+				- Linux
+					- Linux distros
+						- Choose Linux distro
+						- Arch-based
+						- Debian-based
+						- Gentoo-based
+						- RPM-based
+						- Slackware-based
+					- Linux kernel
+					- Linux mirror server
+				- macOS
+			- Windows
+		- Phone OS
+		- Router
+		- OS
+		- Server OS
+		- VIrtual OS
+	- Platforms
+		- 3D platform
+		- Artwork platform
+		- Audio platform
+			- karaoke
+			- Lyrics
+			- Music in movies
+			- Music platform
+				- Buy music
+				- Explore music
+					- Free music
+					- Freemium muisc
+						- Korean music streaming
+						- Pandora
+						- Soundcloud
+						- Spotify
+					- Music genres
+					- Premium music
+					- Top music charts
+				- SFX
+			- Podcast
+			- Radio
+				- Radio platform
+				- Radio station
+			- Record voice
+			- TTS
+			- What song?
+		- Dev platform
+			- 
+		- Image platform
+			- 
+		- Text platform
+			- 
+		- Video platform
+			- Documentary platform
+				- Conference
+				- Documentary
+			- Live video
+			- Online video platform
+				- Platform frontend
+					- Odysee frontentd
+					- PeerTube
+					- Reddit frontend
+					- TikTok frontend
+					- YouTube frontend
+				- Oriental platform
+			- Premium video
+				- Buy film
+				- What watch
+			- Stream video
+				- Anime online 
+				- Movies online
+				- Series online
+				- Sports stream
+			- TV
+				- DTT
+				- Guide TV
+				- TV Channel
+				- TV show
+				- TV zones
+					- France TV
+					- Latan TV
+					- Spain TV
+					- TV listing
+					- UK TV
+					- USA TV
+			- TV platform
+				- Stream TV
+			- Video hosting
+				- Stock video
+	- Social Networks
+		- Anonymus social
+		- Crypto network
+		- Dashboard
+		- Decentralized networks
+		- Forum
+		- Instant messaging
+		- People networks
+		- Social net
+		- Video chat
+		- Voice chat
+	- Webs
+		- Computing networking
+		- hardware test
+		- Info web
+		- Search domains
+		- Search engine
+		- Web archive
+		- Web security
+		- Web statistics (SEO)
+- Arts
+	- Art gallery
+	- Art webs
+	- Design
+	- Exhibition
+	- Music art
+	- Painting
+- Business
+	- Enterprises
+	- Job portal
+	- Purchase advice
+- Content
+	- 3D content
+		- 3D Earth model
+	- Audio content
+	- Game content
+	- Image content
+	- Resources Content
+	- RSS COntent
+	- Social Media COntent
+	- Text content
+	- Video content
+	- VIdeo Playlist
+- Creators
+	- Art profile
+	- Dev profile
+	- Encyclopedia user
+	- Game profile
+	- Payment profile
+	- Social profile
+	- Video channel
+- Education
+	- Academy
+	- Campus
+	- Courses
+	- Educational institute
+	- Kids site
+	- Languages
+	- Study resources
+	- Human test
+- Entertainment
+	- Competitions
+	- Events
+		- Concert
+		- Exposition
+		- Festival
+		- GAme events
+		- LAN party
+		- Meetup conference
+		- Ticket sales
+		- What to do
+	- Fun
+		- Meme
+	- Gambling
+		- Betting
+		- Bingo
+		- Casino
+		- Lottery
+		- Poker
+	- Gaming
+		- Game statistics
+		- Games
+		- Pirate games
+		- Simulation app
+	- Hobbies
+		- Bricolage
+		- Collecting
+		- Cubing
+		- Lore
+		- Typing
+	- Sports
+		- Stats sports
+- Health
+	- Diseases
+	- Food recipes
+	- Genetic sequency
+	- Helath care
+	- Meditation
+	- Mind
+	- Physical activity
+	- Treatment health
+- Media
+	- Arts media
+	- Blogs media
+	- Magazine media
+	- Science media
+	- Sports media
+	- Tech media
+	- World news
+- Reference
+	- Biography
+	- Data
+	- Database
+	- Definition
+	- Dictionary
+	- Emoji
+	- Encyclopedia
+	- Library
+	- Portal-site
+	- Quotes
+	- Template
+	- Time
+	- Wiki
+		- Documentaiton wiki
+		- Fandom wiki
+		- Memes wiki
+		- Software wiki
+		- Wimikedia site
+- Science
+	- Alter Science
+		- Alchemy
+		- Astrology
+		- Chiromancy
+		- Kabbalah
+		- Numerology
+		- Tarot
+	- Applied Science
+		- Astronomy
+		- Computing
+		- Engineering
+		- Geography
+		- Geology
+		- Medicine
+		- Phylosopphy
+	- Basic Science
+		- Biology
+		- Chemistry
+		- Mathematics
+		- Physics
+	- Social Science
+		- Archeology
+		- demography
+		- Economics
+		- hstory
+		- Journalism
+		- Literature
+		- Political Science
+		- Psychology
+- Society
+	- Awards
+	- Culture
+	- Government
+	- Organization
+	- People
+	- Politics
+	- Projects
+- World
+	- Building
+	- Country info
+	- Garden
+	- House
+	- Maps
+	- Places
+		- Beach
+		- Ravine
+		- Volcano
+	- Regional discover
+	- Tourism
+		- Excursion
+		- Homestay
+		- Route
+		- Travel web
+		- Visit
+	- Wather meteo
+		- Air quality
+		- Satellite weather
+		- Sea weather
+		- Space weather
+		- University weather
+	- Webcam
+
